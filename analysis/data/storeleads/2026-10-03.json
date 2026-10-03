@@ -1,0 +1,226 @@
+{
+  "fetched": "2026-10-03",
+  "applovin": {
+    "updated": "Sep 25 2026",
+    "installs": 11604,
+    "weekly_installs": [
+      {
+        "count": 8493,
+        "label": "2026/08/14"
+      },
+      {
+        "count": 8742,
+        "label": "2026/08/21"
+      },
+      {
+        "count": 8861,
+        "label": "2026/08/28"
+      },
+      {
+        "count": 9110,
+        "label": "2026/09/04"
+      },
+      {
+        "count": 9469,
+        "label": "2026/09/11"
+      },
+      {
+        "count": 10078,
+        "label": "2026/09/18"
+      },
+      {
+        "count": 11604,
+        "label": "2026/09/25"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US",
+        "stores": 5880
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK",
+        "stores": 3145
+      },
+      {
+        "name": "China",
+        "code": "CN",
+        "stores": 385
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB",
+        "stores": 382
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "stores": 297
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "stores": 278
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "stores": 247
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL",
+        "stores": 110
+      },
+      {
+        "name": "Indonesia",
+        "code": "ID",
+        "stores": 68
+      },
+      {
+        "name": "Lithuania",
+        "code": "LT",
+        "stores": 67
+      }
+    ],
+    "recent_installs": [
+      {
+        "domain": "lafmoms.com",
+        "rank": 8724068,
+        "installed": "2026/09/27"
+      },
+      {
+        "domain": "www.vanishluxs.com",
+        "rank": 7256155,
+        "installed": "2026/09/27"
+      },
+      {
+        "domain": "www.cornbreadhemp.com",
+        "rank": 2339,
+        "installed": "2026/09/27"
+      },
+      {
+        "domain": "shop.altgems.io",
+        "rank": 13519794,
+        "installed": "2026/09/26"
+      },
+      {
+        "domain": "graceandblossomboutique.com",
+        "rank": 4770860,
+        "installed": "2026/09/26"
+      }
+    ]
+  },
+  "google_youtube": {
+    "installs": 32706,
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US",
+        "stores": 10420
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB",
+        "stores": 2655
+      },
+      {
+        "name": "India",
+        "code": "IN",
+        "stores": 2495
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "stores": 1749
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "stores": 1396
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "stores": 1380
+      },
+      {
+        "name": "France",
+        "code": "FR",
+        "stores": 1130
+      },
+      {
+        "name": "Italy",
+        "code": "IT",
+        "stores": 746
+      },
+      {
+        "name": "Spain",
+        "code": "ES",
+        "stores": 683
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK",
+        "stores": 665
+      }
+    ]
+  },
+  "all_shopify": {
+    "live_stores": 3108807,
+    "countries": [
+      {
+        "name": "United States",
+        "code": null,
+        "stores": 1184882
+      },
+      {
+        "name": "United Kingdom",
+        "code": null,
+        "stores": 231464
+      },
+      {
+        "name": "Canada",
+        "code": null,
+        "stores": 147785
+      },
+      {
+        "name": "Australia",
+        "code": null,
+        "stores": 138313
+      },
+      {
+        "name": "India",
+        "code": null,
+        "stores": 131073
+      },
+      {
+        "name": "France",
+        "code": null,
+        "stores": 108285
+      },
+      {
+        "name": "Germany",
+        "code": null,
+        "stores": 102108
+      },
+      {
+        "name": "Netherlands",
+        "code": null,
+        "stores": 67405
+      },
+      {
+        "name": "Spain",
+        "code": null,
+        "stores": 64069
+      },
+      {
+        "name": "Italy",
+        "code": null,
+        "stores": 58849
+      }
+    ]
+  }
+}
