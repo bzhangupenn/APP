@@ -1,0 +1,230 @@
+{
+  "fetched": "2026-10-04",
+  "applovin": {
+    "updated": "Oct 2 2026",
+    "installs": 12672,
+    "weekly_installs": [
+      {
+        "count": 8493,
+        "label": "2026/08/14"
+      },
+      {
+        "count": 8742,
+        "label": "2026/08/21"
+      },
+      {
+        "count": 8861,
+        "label": "2026/08/28"
+      },
+      {
+        "count": 9110,
+        "label": "2026/09/04"
+      },
+      {
+        "count": 9469,
+        "label": "2026/09/11"
+      },
+      {
+        "count": 10078,
+        "label": "2026/09/18"
+      },
+      {
+        "count": 11604,
+        "label": "2026/09/25"
+      },
+      {
+        "count": 12672,
+        "label": "2026/10/02"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US",
+        "stores": 6070
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK",
+        "stores": 3796
+      },
+      {
+        "name": "China",
+        "code": "CN",
+        "stores": 639
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB",
+        "stores": 381
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "stores": 312
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "stores": 260
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "stores": 257
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL",
+        "stores": 114
+      },
+      {
+        "name": "Singapore",
+        "code": "SG",
+        "stores": 75
+      },
+      {
+        "name": "France",
+        "code": "FR",
+        "stores": 66
+      }
+    ],
+    "recent_installs": [
+      {
+        "domain": "www.dailypickco.com",
+        "rank": 6614874,
+        "installed": "2026/10/03"
+      },
+      {
+        "domain": "www.toluksa.com",
+        "rank": 7409754,
+        "installed": "2026/10/03"
+      },
+      {
+        "domain": "sanlavastore.com",
+        "rank": 6360926,
+        "installed": "2026/10/03"
+      },
+      {
+        "domain": "shop.kynmari.com",
+        "rank": 13561370,
+        "installed": "2026/10/03"
+      },
+      {
+        "domain": "lindnerco.store",
+        "rank": 4414215,
+        "installed": "2026/10/03"
+      }
+    ]
+  },
+  "google_youtube": {
+    "installs": 32868,
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US",
+        "stores": 10545
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB",
+        "stores": 2684
+      },
+      {
+        "name": "India",
+        "code": "IN",
+        "stores": 2483
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "stores": 1740
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "stores": 1410
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "stores": 1371
+      },
+      {
+        "name": "France",
+        "code": "FR",
+        "stores": 1147
+      },
+      {
+        "name": "Italy",
+        "code": "IT",
+        "stores": 755
+      },
+      {
+        "name": "Spain",
+        "code": "ES",
+        "stores": 670
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK",
+        "stores": 660
+      }
+    ]
+  },
+  "all_shopify": {
+    "live_stores": 3103755,
+    "countries": [
+      {
+        "name": "United States",
+        "code": null,
+        "stores": 1186833
+      },
+      {
+        "name": "United Kingdom",
+        "code": null,
+        "stores": 231569
+      },
+      {
+        "name": "Canada",
+        "code": null,
+        "stores": 147180
+      },
+      {
+        "name": "Australia",
+        "code": null,
+        "stores": 138183
+      },
+      {
+        "name": "India",
+        "code": null,
+        "stores": 129730
+      },
+      {
+        "name": "France",
+        "code": null,
+        "stores": 108234
+      },
+      {
+        "name": "Germany",
+        "code": null,
+        "stores": 101951
+      },
+      {
+        "name": "Netherlands",
+        "code": null,
+        "stores": 67196
+      },
+      {
+        "name": "Spain",
+        "code": null,
+        "stores": 64483
+      },
+      {
+        "name": "Italy",
+        "code": null,
+        "stores": 58725
+      }
+    ]
+  }
+}

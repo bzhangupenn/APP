@@ -89,7 +89,7 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument("--offline", action="store_true")
     a = p.parse_args()
-    data = (json.loads(sorted(SNAP.glob("*.json"))[-1].read_text()) if a.offline else snapshot())
+    data = (json.loads(sorted(SNAP.glob("20*.json"))[-1].read_text()) if a.offline else snapshot())
 
     al = data["applovin"]
     weeks = al["weekly_installs"]

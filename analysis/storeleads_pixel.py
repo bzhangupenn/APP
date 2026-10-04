@@ -147,7 +147,7 @@ def plot(weekly, now, total, latest):
     a1.plot(weekly.week, weekly.installs, color=blue, lw=2)
     a1.set_title("Ecommerce stores running the AppLovin AXON Pixel (weekly)", loc="left", fontsize=11)
     a1.grid(axis="y", color="#ecebe7", lw=0.8)
-    for d, label in [("2025-10-10", "Oct '25 step-up"), ("2026-09-25", f"{total:,}")]:
+    for d, label in [("2025-10-10", "Oct '25 step-up"), (str(weekly.week.iloc[-1].date()), f"{total:,}")]:
         y = weekly.set_index("week").installs.asof(pd.Timestamp(d))
         a1.annotate(label, (pd.Timestamp(d), y), textcoords="offset points", xytext=(-10, 8), ha="right", color=muted)
     a1.yaxis.set_major_formatter(matplotlib.ticker.FuncFormatter(lambda v, _: f"{v:,.0f}"))
