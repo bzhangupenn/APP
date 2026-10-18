@@ -1,0 +1,238 @@
+{
+  "fetched": "2026-10-18",
+  "applovin": {
+    "updated": "Oct 16 2026",
+    "installs": 15279,
+    "weekly_installs": [
+      {
+        "count": 8493,
+        "label": "2026/08/14"
+      },
+      {
+        "count": 8742,
+        "label": "2026/08/21"
+      },
+      {
+        "count": 8861,
+        "label": "2026/08/28"
+      },
+      {
+        "count": 9110,
+        "label": "2026/09/04"
+      },
+      {
+        "count": 9469,
+        "label": "2026/09/11"
+      },
+      {
+        "count": 10078,
+        "label": "2026/09/18"
+      },
+      {
+        "count": 11604,
+        "label": "2026/09/25"
+      },
+      {
+        "count": 12672,
+        "label": "2026/10/02"
+      },
+      {
+        "count": 13442,
+        "label": "2026/10/09"
+      },
+      {
+        "count": 15279,
+        "label": "2026/10/16"
+      }
+    ],
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US",
+        "stores": 6472
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK",
+        "stores": 5213
+      },
+      {
+        "name": "China",
+        "code": "CN",
+        "stores": 1171
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB",
+        "stores": 401
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "stores": 341
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "stores": 284
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "stores": 259
+      },
+      {
+        "name": "Malaysia",
+        "code": "MY",
+        "stores": 152
+      },
+      {
+        "name": "Netherlands",
+        "code": "NL",
+        "stores": 120
+      },
+      {
+        "name": "Singapore",
+        "code": "SG",
+        "stores": 86
+      }
+    ],
+    "recent_installs": [
+      {
+        "domain": "peakmotionco.myshopify.com",
+        "rank": 12543187,
+        "installed": "2026/10/18"
+      },
+      {
+        "domain": "www.hestanculinary.us",
+        "rank": 9198298,
+        "installed": "2026/10/17"
+      },
+      {
+        "domain": "maggie-jewelry.com",
+        "rank": 7448724,
+        "installed": "2026/10/17"
+      },
+      {
+        "domain": "nryh1u-x7.myshopify.com",
+        "rank": 12718414,
+        "installed": "2026/10/17"
+      },
+      {
+        "domain": "maisonag.com",
+        "rank": 4415818,
+        "installed": "2026/10/17"
+      }
+    ]
+  },
+  "google_youtube": {
+    "installs": 33964,
+    "countries": [
+      {
+        "name": "United States",
+        "code": "US",
+        "stores": 10949
+      },
+      {
+        "name": "United Kingdom",
+        "code": "GB",
+        "stores": 2791
+      },
+      {
+        "name": "India",
+        "code": "IN",
+        "stores": 2562
+      },
+      {
+        "name": "Australia",
+        "code": "AU",
+        "stores": 1801
+      },
+      {
+        "name": "Canada",
+        "code": "CA",
+        "stores": 1472
+      },
+      {
+        "name": "Germany",
+        "code": "DE",
+        "stores": 1416
+      },
+      {
+        "name": "France",
+        "code": "FR",
+        "stores": 1172
+      },
+      {
+        "name": "Italy",
+        "code": "IT",
+        "stores": 779
+      },
+      {
+        "name": "Hong Kong",
+        "code": "HK",
+        "stores": 704
+      },
+      {
+        "name": "Spain",
+        "code": "ES",
+        "stores": 683
+      }
+    ]
+  },
+  "all_shopify": {
+    "live_stores": 3163099,
+    "countries": [
+      {
+        "name": "United States",
+        "code": null,
+        "stores": 1213177
+      },
+      {
+        "name": "United Kingdom",
+        "code": null,
+        "stores": 236574
+      },
+      {
+        "name": "Canada",
+        "code": null,
+        "stores": 148505
+      },
+      {
+        "name": "Australia",
+        "code": null,
+        "stores": 140156
+      },
+      {
+        "name": "India",
+        "code": null,
+        "stores": 130688
+      },
+      {
+        "name": "France",
+        "code": null,
+        "stores": 112045
+      },
+      {
+        "name": "Germany",
+        "code": null,
+        "stores": 103411
+      },
+      {
+        "name": "Netherlands",
+        "code": null,
+        "stores": 67941
+      },
+      {
+        "name": "Spain",
+        "code": null,
+        "stores": 67628
+      },
+      {
+        "name": "Italy",
+        "code": null,
+        "stores": 59943
+      }
+    ]
+  }
+}
